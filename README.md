@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on WebDev and AI.
 - 📫 How to reach me dotasararishabh@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a social creature.
+- ⚡ Fun fact: I'm a Human.
 
 <!---
 RishabhDotasara/RishabhDotasara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
